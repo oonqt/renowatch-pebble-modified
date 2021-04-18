@@ -3,7 +3,7 @@
 // Register for an API Key here https://openweathermap.org/api
 //
 //
-var API_KEY = "SECRETKEYHERE";
+var API_KEY = "91318bfb0b1828fd66fd0f1899d4daa1"; // take it idgaf
 //
 //
 //
